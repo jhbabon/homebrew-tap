@@ -1,8 +1,8 @@
 class Scout < Formula
   desc 'Friendly fuzzy finder for your command line'
   homepage 'https://github.com/jhbabon/scout'
-  url 'https://github.com/jhbabon/scout/archive/v2.6.0.tar.gz'
-  sha256 'ce7683a3e29dba1ded2e7497bf32c3c3d9a697f6c0f8cde8fa19dce9e4bb38df'
+  url 'https://github.com/jhbabon/scout/archive/v2.7.0.tar.gz'
+  sha256 'd0e8895475132c293170a5dcfcad6eb991a2db4698758245cff9f5829de84dd6'
 
   depends_on 'rust' => :build
 
